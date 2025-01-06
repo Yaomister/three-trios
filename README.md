@@ -1,7 +1,7 @@
 # READ-ME
 
-Homework 5 for F24 OOD <br>
-Nathan Cheung, Eric Yao <br>
+Homework for F24 OOD <br>
+Nathan C, Eric Y <br>
 The code was written in Java. <br>
 Three trios game.
 
