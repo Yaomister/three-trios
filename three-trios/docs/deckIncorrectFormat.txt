@@ -1,3 +1,0 @@
-SurgeTheSodaMachine 7 4
-RtTheCopRobot 8 2 5
-JanetTheFlyingStar 4 4 4
